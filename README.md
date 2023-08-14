@@ -21,4 +21,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alihanselimoglu&" alt="alihanselimoglu" /></p>
 
-![snake gif](https://github.com/YOUR_USERNAME/alihanselimoglu/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/alihanselimoglu/alihanselimoglu/blob/output/github-contribution-grid-snake.gif)
