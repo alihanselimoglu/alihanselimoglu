@@ -4,7 +4,6 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- ⚡ Fun fact **I am in love with all kind of sports**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
