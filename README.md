@@ -1,6 +1,6 @@
 <div align="center"><img align="center" src="https://www.dualmonitorbackgrounds.com/cache/popular-culture/creationofman_w293_h100_cw293_ch100_thumb.jpg" alt="alihanselimoglu" /></div>
 <h1 align="center">Hi 👋, I'm Alihan Selimoglu</h1>
-<h3 align="center">An ambitious person who is disciplined, devoted, confident, opportunist and positive. Also is a QA Automation Engineer and Web Developer</h3>
+<h3 align="center">A Web Developer and QA Automation Engineer who is disciplined, ambitious and positive.</h3>
 
 - 🌱 I’m currently learning **MERN Stack**
 
