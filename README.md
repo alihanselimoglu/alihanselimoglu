@@ -3,6 +3,7 @@
 <h3 align="center">A Web Developer and QA Automation Engineer who is disciplined, ambitious and positive.</h3>
 
 -  I identfy myself as a backend developer
+-  For work, i use gitlab
 - 🌱 I’m currently learning **MEVN Stack**
 
 
