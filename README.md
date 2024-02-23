@@ -1,4 +1,3 @@
-<div align="center"><img align="center" src="https://www.dualmonitorbackgrounds.com/cache/popular-culture/creationofman_w293_h100_cw293_ch100_thumb.jpg" alt="alihanselimoglu" /></div>
 <h1 align="center">Hi 👋, I'm Alihan Selimoglu</h1>
 <h3 align="center">A Web Developer and QA Automation Engineer who is disciplined, ambitious and positive.</h3>
 
