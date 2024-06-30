@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alihan Selimoglu</h1>
-<h3 align="center">A Web Developer and QA Automation Engineer who is disciplined, ambitious and positive.</h3>
+<h3 align="center">A Full-Stack Developer and QA Automation Engineer who is disciplined, ambitious and positive.</h3>
 
-- 🌱 I’m currently developing **NodeJS Backend Projects**
+- 🌱 I’m currently developing **Full-Stack Mobile Projects**
 
 
 <h3 align="left">Connect with me:</h3>
